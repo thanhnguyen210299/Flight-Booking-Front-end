@@ -39,7 +39,7 @@ const Footer = () => {
             <a href = ""><IoIosArrowForward className = "icon"/>Home</a>
           </li>
           <li>
-            <a href = ""><IoIosArrowForward className = "icon"/>Explpore</a>
+            <a href = ""><IoIosArrowForward className = "icon"/>Explore</a>
           </li>
           <li>
             <a href = ""><IoIosArrowForward className = "icon"/>Flight Status</a>
