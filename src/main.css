@@ -294,8 +294,6 @@ h1 {
 }
 .home-bg .home .glassmorphism .mainText {
   padding: 1rem;
-  width: -moz-max-content;
-  width: max-content;
 }
 .home-bg .home .homeImages {
   width: 100%;
@@ -768,7 +766,7 @@ h1 {
 }
 @media screen and (min-width: 570px) {
   .home .mainText {
-    width: 80%;
+    width: 8%;
   }
   .home .homeImages .video {
     border-radius: 15rem;
