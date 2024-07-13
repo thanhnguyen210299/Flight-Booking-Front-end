@@ -329,10 +329,12 @@ h1 {
         backdrop-filter: blur(10px);
         border: 1px solid rgba(255,255,255,0.25);
         border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
         .mainText{
         padding: 1rem;
-        // width: max-content;
         }
     }
 
